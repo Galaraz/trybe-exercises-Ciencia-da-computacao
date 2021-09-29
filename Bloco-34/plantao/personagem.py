@@ -9,7 +9,7 @@ class Personagem(PersonagemInterface):
         self.__sexo = sexo
         self.__altura = altura
         self.__peso = peso
-   
+
     def get_nome(self):
         return self.__nome
 
