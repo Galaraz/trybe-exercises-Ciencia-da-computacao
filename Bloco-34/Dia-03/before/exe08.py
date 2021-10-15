@@ -1,3 +1,6 @@
+# Exercício 8 Agora mais um desafio, vá ao site https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags e recupere as imagens de todas as bandeiras.
+# 🦜 Faça requisições para as URLs das imagens e escreva seus conteúdos em arquivos binários. São 206 ao total.
+
 import requests
 import parsel
 
